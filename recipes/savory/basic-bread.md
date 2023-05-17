@@ -140,7 +140,7 @@ If your bread ends up too flat, this is very likely the step that you need to im
 
 ### Place the dough in a clean bowl
 
-If you have a [banneton](tools.md#banneton-optional) use a banneton; if not, use a clean bowl.
+If you have a [banneton](../../basics/tools.md#banneton-optional) use a banneton; if not, use a clean bowl.
 Place the shaped dough upside down in the container.
 The round surface that you created should be now at the bottom of your banneton or bowl.
 When baking the dough we will flip the bowl and the round surface will again be
